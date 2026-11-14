@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://game/fuel/fuel.gd" id="1"]
+
+[sub_resource type="CanvasItemMaterial" id="LabelMaterial"]
+light_mode = 1
+
+[node name="Fuel" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Label" type="Label" parent="."]
+material = SubResource("LabelMaterial")
+offset_left = -36.0
+offset_top = -24.0
+offset_right = 36.0
+offset_bottom = 24.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 15
+horizontal_alignment = 1
+vertical_alignment = 1

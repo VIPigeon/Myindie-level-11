@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Локальные сборки и секреты экспорта
+/build/
+/export_credentials.cfg
+/.local/

@@ -1,0 +1,12 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://game/ui/stage_progress/stage_progress.gd" id="1"]
+
+[node name="StageProgress" type="Control"]
+layout_mode = 0
+offset_left = 16.0
+offset_top = 22.0
+offset_right = 192.0
+offset_bottom = 46.0
+mouse_filter = 2
+script = ExtResource("1")

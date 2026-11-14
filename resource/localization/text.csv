@@ -1,0 +1,55 @@
+keys,ru,en
+HUD_POINTS,Очки: %d,Points: %d
+HUD_INSTRUCTIONS,Левой кнопкой мыши перетаскивай предметы в огонь.,Drag items into the fire with the left mouse button.
+FUEL_BRANCH,Ветка,Branch
+FUEL_PAPER,Бумага,Paper
+FUEL_TRASH,Мусор,Trash
+FUEL_VALUE,"%s
++%d","%s
++%d"
+FIRE_LABEL,ОГОНЬ,FIRE
+STAGE_CAMP,Костёр,Campfire
+STAGE_FOREST,Лесной пожар,Forest fire
+STAGE_PLANET,Планета,Planet
+STAGE_PROGRESS,%s · %d / %d очков,%s · %d / %d points
+STAGE_COMPLETE,%s · Максимальный размер,%s · Maximum size
+FUEL_STAGE_1_0,Дерево,Tree
+FUEL_STAGE_1_1,Сухостой,Deadwood
+FUEL_STAGE_1_2,Бревно,Log
+FUEL_STAGE_2_0,Дом,House
+FUEL_STAGE_2_1,Магазин,Shop
+FUEL_STAGE_2_2,Склад,Warehouse
+STAGE_TOWN,Город,Town
+UPGRADE_TITLE,Огонь набрал силу,The fire has grown
+UPGRADE_HELPER,Помощник,Helper
+UPGRADE_STAGE,Следующий этап,Next stage
+FUEL_STAGE_3_0,Лес,Forest
+FUEL_STAGE_3_1,Город,City
+FUEL_STAGE_3_2,Гора,Mountain
+STAGE_EMBER,Окурок,Ember
+FUEL_LEAF,Сухой лист,Dry leaf
+FUEL_BUTT,Окурок,Cigarette butt
+FUEL_PACK,Пачка сигарет,Cigarette pack
+GAME_OVER_TITLE,Огонь погас,The fire went out
+GAME_RESTART,Попробовать снова,Try again
+STAGE_HOUSE,Дом,House
+STAGE_SURFACE,Поверхность,Surface
+STAGE_BLACK_HOLE,Сингулярность,Singularity
+FUEL_TREE,Дерево,Tree
+FUEL_BIN,Мусорный бак,Trash bin
+FUEL_SATELLITE,Спутник,Satellite
+FUEL_SHIP,Космический корабль,Spaceship
+FUEL_UFO,Летающая тарелка,Flying saucer
+FUEL_METEOR,Метеорит,Meteorite
+FUEL_MOON,Луна,Moon
+FUEL_STAR,Звезда,Star
+UPGRADE_DESCRIPTION,"Выбери, как продолжить",Choose how to continue
+UPGRADE_HELPER_DESCRIPTION,"Приносит топливо.
+Можно сжечь.","Brings fuel.
+Can be burned."
+UPGRADE_STAGE_DESCRIPTION,"Новый масштаб.
+Новая добыча.","A bigger world.
+New fuel."
+GAME_OVER_DESCRIPTION,Искра погасла. Попробуем ещё?,The spark is gone. Try again?
+VICTORY_TITLE,Победа,Victory
+HUD_FUEL,ТОПЛИВО,FUEL

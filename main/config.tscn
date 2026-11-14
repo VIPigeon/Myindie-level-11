@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bq6nwk11ppg8o"]
+
+[ext_resource type="Script" uid="uid://duye32lj0orgp" path="res://main/config.gd" id="1_x1050"]
+
+[node name="Config" type="Node2D" unique_id=187425398]
+script = ExtResource("1_x1050")
+stage_progress_drain = Array[float]([0.5, 7.0, 60.0, 130.0, 250.0, 160.0])

@@ -1,0 +1,46 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="jam-lvl11"
+run/main_scene="res://main/main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[autoload]
+
+Config="*uid://bq6nwk11ppg8o"
+
+[display]
+
+window/size/viewport_width=400
+window/size/viewport_height=300
+window/size/window_width_override=800
+window/size/window_height_override=600
+window/stretch/mode="canvas_items"
+window/stretch/aspect="ignore"
+
+[internationalization]
+
+locale/translations=PackedStringArray("res://resource/localization/text.ru.translation", "res://resource/localization/text.en.translation")
+locale/test="ru"
+locale/fallback="ru"
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+rendering_device/driver.windows="d3d12"
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.08, 0.09, 0.11, 1)
